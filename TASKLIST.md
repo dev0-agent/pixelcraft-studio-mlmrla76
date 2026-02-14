@@ -7,7 +7,7 @@ It is automatically updated by dev0 as tasks are completed.
 
 ## Phase 1
 
-- [ ] ⏳ **Project Scaffold & Layout**
+- [x] ✅ **Project Scaffold & Layout**
   Create the main application layout shell. It should feature a top header (logo, export actions), a left sidebar (tools/filters navigation), a right sidebar (adjustment sliders), and a central main area for the canvas. Use a responsive grid or flexbox layout.
 
 - [ ] ⏳ **Image State Management Store**
