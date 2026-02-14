@@ -1,0 +1,18 @@
+{
+  "status": "success",
+  "commitMessage": "feat: implement project scaffold and layout shell
+
+- Created top header with logo and export actions
+- Implemented left sidebar with Tools and Filters tabs
+- Implemented right sidebar with image adjustment sliders
+- Created central main area for the image canvas
+- Used Tailwind CSS flexbox for a responsive layout",
+  "prTitle": "Project Scaffold & Layout Implementation",
+  "prBody": "This PR implements the main application layout shell for PixelCraft Studio. It includes:
+- A top header for branding and global actions (Undo, Redo, Export).
+- A dual-tab left sidebar for editing tools and filter presets.
+- A right sidebar for granular image adjustments (Brightness, Contrast, Saturation, etc.).
+- A central workspace area prepared for the canvas component.
+- Fully responsive layout using modern Tailwind CSS patterns.",
+  "notes": "The layout is built using shadcn/ui components (Tabs, ScrollArea, Slider, Button, Separator) and Lucide icons. Type checking passed successfully."
+}
