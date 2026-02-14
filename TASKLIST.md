@@ -10,7 +10,7 @@ It is automatically updated by dev0 as tasks are completed.
 - [x] ✅ **Project Scaffold & Layout**
   Create the main application layout shell. It should feature a top header (logo, export actions), a left sidebar (tools/filters navigation), a right sidebar (adjustment sliders), and a central main area for the canvas. Use a responsive grid or flexbox layout.
 
-- [ ] ⏳ **Image State Management Store**
+- [x] ✅ **Image State Management Store**
   Set up a global store (using Zustand or React Context) to manage the application state. It needs to track: `originalImageSrc`, `currentImageSrc` (for preview), `adjustments` object (brightness, contrast, etc.), `crop` data, `zoom` level, and `history` stack. Define the initial default values.
 
 - [ ] ⏳ **Image Upload Component**
